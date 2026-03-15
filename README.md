@@ -17,6 +17,14 @@ Eliminate virus particles by stepping on them before they accumulate and take ov
 - Start and end menu screens.
 - Background music for a more immersive experience.
 
+## TRIPO-AI Assets
+- Main Player
+- Enclosure (Walls, Floor, Ceiling)
+- Desk
+- Chairs and WheelChair
+- Dustbin
+
+
 ## Controls
 | Action | Key |
 |------|------|
