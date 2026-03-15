@@ -24,6 +24,8 @@ Eliminate virus particles by stepping on them before they accumulate and take ov
 - Chairs and WheelChair
 - Dustbin
 
+## MUSIC
+- Balloon by Tyler The Creator
 
 ## Controls
 | Action | Key |
